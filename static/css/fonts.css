@@ -63,3 +63,12 @@
     src: url('../fonts/zhuokai.woff2') format('woff2'),
         url('../fonts/zhuokai.woff') format('woff');
 }
+
+/* 焦糖玛奇朵pro */
+@font-face {
+    font-family: "jiaotang";
+    font-style: normal;
+    font-display: swap;
+    src: url('../fonts/jtmqd.woff2') format('woff2'),
+        url('../fonts/jtmqd.woff') format('woff');
+}

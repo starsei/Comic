@@ -1,0 +1,65 @@
+/* 标签字体颜色 */
+.badge,.padder-v-ssm{
+    color:#fff;
+}
+/*白色整体背景*/
+div#alllayout {
+    background-color: #fff;
+}
+.night div#alllayout {
+    background-color: #1d1f20;
+}
+/*首页左侧、顶部背景颜色+字体颜色*/
+.bg-white{
+    background-color:#fff;
+    color:#000;  /*字体颜色*/
+}
+.text-muted{
+    color:#000 !important; /*字体颜色*/
+}
+body{
+    color:#000; 
+}
+/*首页底部-背景颜色-文字颜色*/
+.bg-light {
+    background-color: #fff;
+    color:#000;
+}
+/*首页标题背景变白*/
+.bg-light .lter, .bg-light.lter {
+    background-color: #fff;
+}
+ /*右侧背景变白*/
+.bg-white-only{
+    background-color:#fff;
+}
+/*文章页面变白*/
+#post-panel {
+    background: white;
+}
+/*登录后前台头像下变白*/
+li.wrapper.b-b.m-b-sm.bg-light.m-t-n-xs {
+    background-color: #fff;
+}
+/*盒子四周阴影*/
+.app.container {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.16)!important;
+}
+/*博客信息-搜索框-幻灯片 阴影*/
+.box-shadow-wrap-normal {
+    box-shadow: 0 0px 4px rgba(0, 0, 0, 0.16);
+}
+/*文章标题阴影*/
+.bg-white-pure {
+    background: white;
+    box-shadow: 0 0px 2px 2px rgba(0, 0, 0, .13);
+}
+/*文章圆角-阴影*/
+.panel {
+    box-shadow: 0 0px 2px 2px rgba(0, 0, 0, .13);
+    border-radius: 6px!important;
+}
+/*首页文章日期白色*/
+.text-muted.post-item-foot-icon.text-ellipsis.list-inline {
+    background-color: #fff;
+}
