@@ -1,0 +1,43 @@
+/*鸿蒙HarmonyOS*/
+@font-face{
+    font-family:HarmonyOS_Sans_SC_Medium;
+    font-style:normal;
+    font-display:swap; src:url('../fonts/HarmonyOS_Sans_SC_Medium.subset.woff2') format('woff2')
+}
+/* 荆南麦圆体 */
+@font-face{
+    font-family:jnmyt;
+    font-style:normal;
+    font-display:swap; src:url('../fonts/jnmyt.woff2') format('woff2')
+}
+/* 站酷-仓耳渔阳体 */
+@font-face {
+    font-family:cryyt;
+    font-style: normal;
+    font-display:swap; 
+    src: url('../fonts/cryyt.woff2') format('woff2'),
+        url('../fonts/cryyt.woff') format('woff');
+}
+/* 焦糖玛奇朵pro */
+@font-face {
+    font-family: "jiaotang";
+    font-style: normal;
+    font-display: swap;
+    src: url('../fonts/jtmqd.woff2') format('woff2'),
+        url('../fonts/jtmqd.woff') format('woff');
+}
+/* 筑紫A丸 */
+@font-face {
+    font-family: "ZhuZiAWan";
+    font-style: normal;
+    font-display: swap;
+    src: url('../fonts/ZhuZiAWan.woff2') format('woff2');
+}
+/* 造字工房悦园 */
+@font-face {
+    font-family: "moonbridge";
+    font-style: normal;
+    font-display: swap;
+    src: url('../fonts/moonbridge.woff2') format('woff2');
+}
+
